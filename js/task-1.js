@@ -1,4 +1,4 @@
-///
+
 function makeTransaction(quantity, pricePerDroid, customerCredits){
 
     const sum = pricePerDroid * quantity;
